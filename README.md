@@ -7,9 +7,9 @@ Working with:
 - C#
 
 Other Info:
-- He/Him
-- High school student
-- Non english speaker
+- 👨 He/Him
+- 🏫 High school student
+- 💬 Non english speaker
 
 <!--
 **mossyegghead01/mossyegghead01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
