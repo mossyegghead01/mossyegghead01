@@ -1,15 +1,22 @@
-Working with:
+Well hello there
+
+Currently actively working with these languages:
+- Java
 - Python
-- HTML, CSS
+
+Languages I've used in the past:
 - Javascript
-- Luau (Roblox modification of Lua)
 - C++
+- Lua (Specifically Luau, Roblox fork of Lua)
 - C#
 
-Other Info:
-- 👨 He/Him
-- 🏫 High school student
-- 💬 Non english speaker
+Some probably interesting about me:
+- Absolutely sucks at anything graphical.
+- Self taught (Which means I'm probably sucks at the very technical level)
+
+Current Active project: None
+
+Well... What eles are you expecting me to say here?
 
 [![Mossy's kinda terrible github stats](https://github-readme-stats.vercel.app/api?username=mossyegghead01&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
