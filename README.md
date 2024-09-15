@@ -1,40 +1,18 @@
-Well hello there
-
-🗨️ Currently actively working with these languages:
-- Python
-- C#
-- C
-
-🕒 Languages I've used in the past:
-- Javascript
-- Java
-- C++
-- Lua
-- GDscript (Language used in godot game engine)
-
-🤔 Some probably interesting about me:
+# 💫 About Me:
+### 🤔 Some probably interesting about me:
 - Absolutely sucks at anything graphical.
-- ~Self taught (Which means I'm probably sucks at the very technical level)~ Finally in college!
+- ~Self-taught (Which means I'm probably sucks at the very technical level)~ Finally in college!
 
-🏃‍➡️ Current Active project: None
+### 🧠 Fun fact:
+My codes are as tidy and well-documented as my college notes. That is to say, I don't know where my discreet mathematics notes are, and I don't know how my professor’s talk about moral has anything to do with Program Design Methods.
 
-🧠 Fun fact: My codes are as tidy and well-documented as my college notes. That is to say, I don't know where my discreet mathematics notes are, and I don't know how my professor’s talk about morals have anything to do with Program Design Methods.
 
-Well... What eles are you expecting me to say here?
+# 💻 Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-[![Mossy's kinda terrible github stats](https://github-readme-stats.vercel.app/api?username=mossyegghead01&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+![](https://github-readme-stats.vercel.app/api?username=mossyegghead01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mossyegghead01&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mossyegghead01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--
-**mossyegghead01/mossyegghead01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❓Any question? Please don't. I'm an introvert and socializing is tiring enough :)
