@@ -1,20 +1,24 @@
 Well hello there
 
-Currently actively working with these languages:
-- Java
+🗨️ Currently actively working with these languages:
 - Python
-
-Languages I've used in the past:
-- Javascript
-- C++
-- Lua (Specifically Luau, Roblox fork of Lua)
 - C#
+- C
 
-Some probably interesting about me:
+🕒 Languages I've used in the past:
+- Javascript
+- Java
+- C++
+- Lua
+- GDscript (Language used in godot game engine)
+
+🤔 Some probably interesting about me:
 - Absolutely sucks at anything graphical.
-- Self taught (Which means I'm probably sucks at the very technical level)
+- ~Self taught (Which means I'm probably sucks at the very technical level)~ Finally in college!
 
-Current Active project: None
+🏃‍➡️ Current Active project: None
+
+🧠 Fun fact: My codes are as tidy and well-documented as my college notes. That is to say, I don't know where my discreet mathematics notes are, and I don't know how my professor’s talk about morals have anything to do with Program Design Methods.
 
 Well... What eles are you expecting me to say here?
 
