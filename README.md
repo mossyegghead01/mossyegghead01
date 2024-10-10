@@ -1,7 +1,10 @@
 # 💫 About Me:
 ### 🤔 Some probably interesting about me:
 - Absolutely sucks at anything graphical.
-- ~Self-taught (Which means I'm probably sucks at the very technical level)~ Finally in college!
+- Honestly, I don't know what else.
+- As I said I don't know.
+- I can be quite indecisive.
+- Okay I think that's all.
 
 ### 🧠 Fun fact:
 My codes are as tidy and well-documented as my college notes. That is to say, I don't know where my discreet mathematics notes are, and I don't know how my professor’s talk about moral has anything to do with Program Design Methods.
