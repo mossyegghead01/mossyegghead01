@@ -17,5 +17,3 @@ My codes are as tidy and well-documented as my college notes. That is to say, I 
 ![](https://github-readme-stats.vercel.app/api?username=mossyegghead01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mossyegghead01&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mossyegghead01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
-
-### ❓Any question? Please don't. I'm an introvert and socializing is tiring enough :)
